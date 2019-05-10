@@ -1,0 +1,14 @@
+h1 {
+   font-family: fantasy;
+   font-size: 25pt;
+   color: #FF64BF;
+   background-color: #FFE4F5;
+     text-align: center;
+     font-weight: 1000;
+}
+
+
+body {
+     text-align: center;
+     background-color: #FFE4F5;
+}
